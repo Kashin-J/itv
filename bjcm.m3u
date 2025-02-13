@@ -47,7 +47,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227034/1.m3u8?GuardEncType
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227023/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsOnjStoSIBiRDXRm4N42Zw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227038/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnNP_kmf5g3OZQXDWZHNpOA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+#EXTINF:-1 tvg-name="湖南卫视" http-user-agent="AptvPlayer/1.4.0" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
 http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=hls&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&programid=4200000086&playtoken=31606RWDQIUIDOH10&redirect=1&hls_segment=4_0_1_2_3_4_7815.ts
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
