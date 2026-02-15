@@ -1,7 +1,5 @@
-#EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://gh.aptv.app/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/sxyd.m3u
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXT-X-SUB-URL https://fastly.jsdelivr.net/gh/Kashin-J/itv@master/sxyd.m3u
 
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" group-title="央视",CCTV4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221227140/index.m3u8
